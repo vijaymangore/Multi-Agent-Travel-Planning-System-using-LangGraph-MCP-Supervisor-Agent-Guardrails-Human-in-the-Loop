@@ -1,8 +1,6 @@
 # Build a Multi-Agent Travel Planning System using LangGraph + MCP | Supervisor Agent + Guardrails + Human-in-the-Loop
 
 
-This project extends the Multi-Agent Travel Planning System built in Part 1 and Part 2 by integrating Supervisor Agent + Guardrails + Human-in-the-Loop
-
 # Requirements
 
 ## APIs
